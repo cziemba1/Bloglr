@@ -1,0 +1,11 @@
+<h1>INDEX PAGE</h1>
+
+<% blogs.forEach((blog)=>{%>
+<div>
+    <h2><%- blog.title %></h2>
+    <img src="<%- blog.image %>" alt="<%- blog.title %>">
+    <p><%- blog.body %></p>
+    <p><%- blog.created %></p>
+</div>
+
+<%}) %>
