@@ -22,3 +22,6 @@ Se creó la aplicación siguiendo la arquitectura REST e incluyendo sanitizacion
 * Mongoose
 * Semantic UI
 
+### Screenshots
+
+![ScreenShot](https://raw.github.com/cziemba1/Bloglr/master/assets/CREATE.png)
