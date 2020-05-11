@@ -1,0 +1,27 @@
+#navbar {
+  padding: 0 8em 0 3em;
+}
+i.icon {
+  font-size: 2em;
+}
+
+#navbar-links {
+  margin-left: auto;
+}
+
+#nueva-entrada {
+  margin-top: 2em;
+}
+
+#delete {
+  display: inline;
+}
+
+#main {
+  padding: 10rem 0 5rem 0;
+  text-align: center;
+}
+
+#button {
+  margin: 1rem 0 1rem 0;
+}
