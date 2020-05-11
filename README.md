@@ -9,7 +9,7 @@ Permite:
 
 Cada post se compone de un titulo, imagen y descripcion.
 
-Se creó la aplicación siguiendo la arquitectura REST e incluyendo sanitizacion para las rutas CREATE y UPDATE
+Se creó la aplicación siguiendo la arquitectura REST (index, new, create, show, edit, update, destroy) e incluyendo sanitizacion para las rutas CREATE y UPDATE
 
 ### Tecnologias usadas
 
@@ -23,5 +23,14 @@ Se creó la aplicación siguiendo la arquitectura REST e incluyendo sanitizacion
 * Semantic UI
 
 ### Screenshots
+* INDEX
+![ScreenShot](https://raw.github.com/cziemba1/Bloglr/master/assets/INDEX.png)
 
+* SHOW
+![ScreenShot](https://raw.github.com/cziemba1/Bloglr/master/assets/SHOW.png)
+
+* NEW / CREATE
 ![ScreenShot](https://raw.github.com/cziemba1/Bloglr/master/assets/CREATE.png)
+
+* EDIT / UPDATE
+![ScreenShot](https://raw.github.com/cziemba1/Bloglr/master/assets/UPDATE.png)
